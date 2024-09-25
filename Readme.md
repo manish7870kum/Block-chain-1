@@ -1,5 +1,5 @@
 # BasicStaking Smart Contract
-
+#0x31f131da75c1e9c24cbdf5202e39580b4bfdf3d4161e19a81c46a57c87c88fb7
 ## Vision
 
 The **BasicStaking** smart contract allows users to participate in staking pools where they can stake tokens and earn rewards based on the amount staked. This contract offers a simple and transparent staking mechanism, promoting long-term token holding and user engagement through reward incentives.
